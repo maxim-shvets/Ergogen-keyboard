@@ -1,4 +1,5 @@
-<h1>"Keyboard Name"</h1>
+<h1>THIS README IS A WORK IN PROGRESS</h1>
+<h1>"Keyboard Name" v1</h1>
 Name is a wireless, # key split column-splayed and column-staggered ergonomic choc switch keyboard with a large thumb cluster. Each half uses a Nice!Nano v2 and supports an OLED display.
 <h2>Photo</h2>
 (insert photo)
