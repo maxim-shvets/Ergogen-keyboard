@@ -191,7 +191,7 @@ pcbs:
         where:
           ref: matrix_inner_top
           shift: [20,-9.5]
-          rotate: -0
+          rotate: 0
 
       oled:
         what: display_ssd1306
