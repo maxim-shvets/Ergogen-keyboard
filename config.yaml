@@ -162,7 +162,7 @@ outlines:
       name: keys
 
 pcbs:
-  tutorial:
+  schism v1:
     outlines:
       main:
         outline: board
