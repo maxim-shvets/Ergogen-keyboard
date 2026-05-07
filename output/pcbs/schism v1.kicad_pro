@@ -515,7 +515,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../schism v1 gerber files/",
       "specctra_dsn": "",
       "vrml": ""
     },
